@@ -8,4 +8,4 @@ Nataly: "Hello frog"
 SAnJuan: "Generating error in merge., es mentira no hay error
 "Juan:"cuarta prueba mezcla"
 Diegogogogo: "Yo soy el más pato de las patadas"
-Santiagogogo: "No soy yo"
+Santiagogogo: "No, soy yo"
