@@ -5,3 +5,4 @@ Santiago: "Mezclas?"
 Nataly: "Hello we sop"
 que lo ke que mi so
 Nataly: "Hello frog"
+SAntiago: "Generating error in merge"
