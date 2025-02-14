@@ -4,12 +4,8 @@ Nataly: "Hello mundo"
 Santiago: "Mezclas?"
 Nataly: "Hello mom"
 que lo ke que mi so
-Nataly: "Hello frog"
-SAnJuan: "Generating error in merge., es mentira no hay error
+Nataly: "Hello"
+SAnJuan: "Generating error in merge..."
 "Juan:"cuarta prueba mezcla"
-Nataly: "Es en seri
-gente sapa y las natalys nacidas en 2006 fofis
-chinchina y nada, mas cultura un arbol de guayabas
 
-Diegogogogo: "Yo soy el más pato de las patadas"
-Santiagogogo: "No, soy yo"
+Santiago: "No, soy yo"
