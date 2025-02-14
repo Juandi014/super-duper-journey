@@ -2,14 +2,11 @@ function suma(a, b){
     return parseInt(a+b)
 }
 
-function resta(a, b){
-    return parseInt(a-b)
+/**
+ * Greet one person
+ * @param {String} name Name person 
+ */
+function sayHello(name){
+    return `Hello ${name}`
 }
 
-function multiplicacion(a, b){
-    return (a*b)
-}
-
-function division(a, b){
-    return parseInt(a/b)
-}
