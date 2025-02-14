@@ -8,4 +8,3 @@ Nataly: "Hello frog"
 SAnJuan: "Generating error in merge., es mentira no hay error
 "Juan:"cuarta prueba mezcla"
 Nataly: "Es en seri
-

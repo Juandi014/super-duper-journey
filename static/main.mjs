@@ -2,6 +2,10 @@ function suma(a, b){
     return parseInt(a+b)
 }
 
-guowirwiohasfhoásf
-suma(5,-6666
-)
+function resta(a, b){
+    return parseInt(a-b)
+}
+
+function multiplicacion(a, b){
+    return (a*b)
+}
